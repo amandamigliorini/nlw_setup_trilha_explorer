@@ -46,4 +46,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave:
+Feito com ♥ by Amanda Migliorini através da Trilha Explorer do NLW da Rocketseat :wave:
